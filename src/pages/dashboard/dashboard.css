@@ -1,0 +1,14 @@
+/* .nodesPanel {
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+div.xflow-node-panel-node-wrapper div{
+ height: 50px;
+ width: 50px;
+ margin: 0 20px;
+} */
+
+input.ant-input{
+ width: 100%;
+}
